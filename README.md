@@ -9,6 +9,6 @@
 ## Neural Network Deep Learning_Coursework_Repo: Assignment-1
 
 ### Document and Video Of Assignment-1 
-[Assignment-1 Document](https://docs.google.com/document/d/1KL7qFDl39nsxMj-jcGvYa5JfFE-fMn-F/edit?usp=sharing&ouid=115541669927085277449&rtpof=true&sd=true)
+[Assignment-1 Document](https://docs.google.com/document/d/1lqQLD3dGtJv6qCY6mIVhkLk0XArZFP7u/edit?usp=drive_link&ouid=115541669927085277449&rtpof=true&sd=true)
 
 [Assignment-1  Demo Video](https://drive.google.com/file/d/10CDa7PeMHHQURu56qsVghxZHQJxWlGl-/view?usp=sharing)
