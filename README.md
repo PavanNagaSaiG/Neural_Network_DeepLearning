@@ -2,7 +2,7 @@
 
 ### Name: Pavan Naga Sai Gullapalli
 #### Student ID: 700745501
-#### CRN: 23921
+#### CRN: 31176
 ### University Of Central Missouri
 ## List of Contents
 [Assignment-1](https://drive.google.com/drive/folders/1D78lHETiXJ8mP9vAu5PdnUXsF5ggXYlS?usp=sharing)
