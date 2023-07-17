@@ -16,7 +16,7 @@
 [Assignment-1  Demo Video](https://drive.google.com/file/d/10CDa7PeMHHQURu56qsVghxZHQJxWlGl-/view?usp=sharing)
 
 ### Document and Video Of Assignment-2
-[Assignment-2 Document](https://docs.google.com/document/d/1Z4oee_5462ljohLwaQZH8zm1q1I6A1Oj/edit?usp=drive_link&ouid=115541669927085277449&rtpof=true&sd=true)
+[Assignment-2 Document](https://docs.google.com/document/d/1ux6bBUjHx9tfFJtEtrsCjDhBf4R1h3z8/edit?usp=sharing&ouid=115541669927085277449&rtpof=true&sd=true)
 
 [Assignment-2 Demo Video](https://drive.google.com/file/d/1565sWVY9wB7cHDg556xoM5svFTH-9ZeB/view?usp=sharing)
 
