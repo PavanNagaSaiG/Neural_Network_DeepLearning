@@ -8,6 +8,8 @@
 [Assignment-1](https://drive.google.com/drive/folders/1D78lHETiXJ8mP9vAu5PdnUXsF5ggXYlS?usp=sharing)
 
 [Assignment-2](https://drive.google.com/file/d/1565sWVY9wB7cHDg556xoM5svFTH-9ZeB/view?usp=sharing)
+
+[Assignment-3](https://drive.google.com/drive/folders/1ru1t8ifgwmeGLOtuDe_Sw4OlUrPCxsuM?usp=sharing)
 ## Neural Network Deep Learning_Coursework_Repo: Assignment-1
 
 ### Document and Video Of Assignment-1 
@@ -20,3 +22,7 @@
 
 [Assignment-2 Demo Video](https://drive.google.com/file/d/1565sWVY9wB7cHDg556xoM5svFTH-9ZeB/view?usp=sharing)
 
+### Document and Video Of Assignment-3
+[Assignment-3 Document](https://drive.google.com/file/d/1sQDMbwZqcWoaYiag_vQ_K-zAhf9dG9jJ/view?usp=sharing)
+
+[Assignment-3 Demo Video](https://drive.google.com/file/d/1h4DGJCr7vd0QX5lj90kiEWpIDYt4HEqZ/view?usp=drive_link)
